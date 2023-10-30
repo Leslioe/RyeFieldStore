@@ -10,5 +10,13 @@ namespace MFarm.Invetory
         {
             return itemDataList_SO.itemDetailsList.Find(i => i.itemID == ID);
         }
+        public void AddItem(Item item, bool toDestory)
+        {
+            Debug.Log(item.itemDetails.itemID+item.itemDetails.itemName);
+            if (toDestory)
+            {
+                Destroy(item.gameObject);
+            }
+        }
     }
 }
