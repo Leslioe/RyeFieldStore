@@ -3,20 +3,85 @@ using System.Collections.Generic;
 using UnityEngine;
 namespace MFarm.Invetory
 {
+
     public class inventoryManger : Singleton<inventoryManger>
     {
+        [Header("物体数据")]
         public ItemDataList_SO itemDataList_SO;
-        public ItemDetails GetItemDetails(int ID)
+        [Header("背包数据")]
+        public InventoryBag_SO playerBag;
+
+        public ItemDetails GetItemDetails(int ID)//这个get方法会在item.cs使用用于在地图生成物体
         {
             return itemDataList_SO.itemDetailsList.Find(i => i.itemID == ID);
         }
-        public void AddItem(Item item, bool toDestory)
+        public void AddItem(Item item, bool toDestory)//add方法在pickup中使用，实现为背包物体添加数据
         {
-            Debug.Log(item.itemDetails.itemID+item.itemDetails.itemName);
+            //背包是否有空位，或者已经有该物体
+            var index = GetItemIndexInBag(item.itemID);
+
+            AddItemAtIndex(item.itemID, index, 1);
+            Debug.Log(item.itemDetails.itemID + item.itemDetails.itemName);
             if (toDestory)
             {
                 Destroy(item.gameObject);
             }
         }
+        /// <summary>
+        /// 检查背包是否还有空位
+        /// </summary>
+        private bool CheckBagCapacity()
+        {
+            for (int i = 0; i < playerBag.itemList.Count; i++)
+            {
+                if (playerBag.itemList[i].itemID == 0)
+                {
+                    return true;
+                }
+
+            }
+            return false;
+        }
+        /// <summary>
+        /// 去寻找背包中相同物体的下标
+        /// </summary>
+        /// <param name="Id"></param>
+        /// <returns></returns>
+        private int GetItemIndexInBag(int Id)
+        {
+            for (int i = 0; i < playerBag.itemList.Count; i++)
+            {
+                if (playerBag.itemList[i].itemID == Id)
+                {
+                    return i;
+                }
+
+            }
+            return -1;
+        }
+        private void AddItemAtIndex(int ID, int index, int amount)
+        {
+            if (index == -1 && CheckBagCapacity())
+            {
+                var item = new InventoryItem { itemID = ID, itemAmount = amount };
+                for (int i = 0; i < playerBag.itemList.Count; i++)
+                {
+                    if (playerBag.itemList[i].itemID == 0)
+                    {
+                        playerBag.itemList[i] = item;
+                        break;
+                    }
+
+                }
+            }
+            else
+            {
+                int currenAmount = playerBag.itemList[index].itemAmount + amount;
+                var item = new InventoryItem { itemID = ID, itemAmount = currenAmount };
+                playerBag.itemList[index] = item;
+            }
+        }
+
     }
+
 }
