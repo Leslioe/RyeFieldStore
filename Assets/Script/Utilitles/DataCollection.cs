@@ -17,6 +17,7 @@ public class ItemDetails
     public int itemPrice;
     [Range(0, 1)]
     public float sellPercentage;
+   
 }
 [System.Serializable]
 public struct InventoryItem

@@ -10,7 +10,10 @@ namespace MFarm.Invetory
         public ItemDataList_SO itemDataList_SO;
         [Header("背包数据")]
         public InventoryBag_SO playerBag;
-
+        private void Start()
+        {
+            EventHandler.CallUpdateInventoryUI(InventoryLocation.Player, playerBag.itemList);
+        }
         public ItemDetails GetItemDetails(int ID)//这个get方法会在item.cs使用用于在地图生成物体
         {
             return itemDataList_SO.itemDetailsList.Find(i => i.itemID == ID);
@@ -26,6 +29,8 @@ namespace MFarm.Invetory
             {
                 Destroy(item.gameObject);
             }
+            //更新ui
+            EventHandler.CallUpdateInventoryUI(InventoryLocation.Player, playerBag.itemList);
         }
         /// <summary>
         /// 检查背包是否还有空位
