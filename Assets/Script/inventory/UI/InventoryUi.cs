@@ -13,7 +13,7 @@ namespace MFarm.Invetory
         [SerializeField] private GameObject bagUI;
         private bool bagOpend;
         [SerializeField] private SlotUI[] playerSlots;
-        private void OnEnable()
+        private void OnEnable()//¶©ÔÄÁËÊÂ¼þ
         {
             EventHandler.UpdateInventoryUI += OnUpdateInventoryUI;
         }

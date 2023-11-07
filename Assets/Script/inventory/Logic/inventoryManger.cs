@@ -86,7 +86,28 @@ namespace MFarm.Invetory
                 playerBag.itemList[index] = item;
             }
         }
+       /// <summary>
+       /// player背包范围内交换物体，在这里订阅了event handler里的事件
+       /// </summary>
+       /// <param name="fromIndex">起始序号</param>
+       /// <param name="targetIndex">目标序号</param>
+        public void SwapItem(int fromIndex, int targetIndex)//根据在slot ui得到的下标去取得数据
+        {
+            InventoryItem currentItem = playerBag.itemList[fromIndex];
+            InventoryItem targetItem = playerBag.itemList[targetIndex];
+            if (targetItem.itemID != 0)
+            {
+                playerBag.itemList[fromIndex] = targetItem;
+                playerBag.itemList[targetIndex] = currentItem;
+            }
+            else
+            {
+                playerBag.itemList[targetIndex] = currentItem;
+                playerBag.itemList[fromIndex] = new InventoryItem();
+            }
+            EventHandler.CallUpdateInventoryUI(InventoryLocation.Player, playerBag.itemList);
 
+        }
     }
-
+    
 }

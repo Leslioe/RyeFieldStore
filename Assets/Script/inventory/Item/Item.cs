@@ -20,7 +20,7 @@ namespace MFarm.Invetory
             {
 
             }
-            Init(itemID);
+            Init(itemID);//这里只需要给itemid赋值则可以直接初始化
         }
         public void Init(int Id)
         {
