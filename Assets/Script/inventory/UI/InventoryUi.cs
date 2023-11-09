@@ -6,6 +6,7 @@ namespace MFarm.Invetory
 {
     public class InventoryUi : MonoBehaviour
     {
+        public ItemToolLip itemToolLip;
         [Header("ÍÏ×§Í¼Æ¬")]
         public Image dragItem;
 

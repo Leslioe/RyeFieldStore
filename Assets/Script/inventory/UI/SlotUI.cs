@@ -6,6 +6,7 @@ namespace MFarm.Invetory
 {
     public class SlotUI : MonoBehaviour, IPointerClickHandler, IBeginDragHandler, IDragHandler, IEndDragHandler
     {
+       
         //在实际游戏开发中，利用拖拽方式获取物体会比通过标签名等方法获取的效益要好
         [Header("组件获取")]//header是为了inspector窗口更简介
         [SerializeField] private Image slotImage;//使得私有变量能够在inspector窗口被赋值
@@ -80,18 +81,18 @@ namespace MFarm.Invetory
                 }
                 inventoryUi.UpdataSlotHightLight(-1);
             }
-            else
-            {
-                {
-                    if (itemDetails.canCarried)
-                    {
-                        var pos = Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, Input.mousePosition.y, -Camera.main.transform.position.z));//摄像机在z轴方向有一个初始默认值
-                        EventHandler.CallInstanceItemScense(itemDetails.itemID, pos);
-                    }
+            //else
+            //{
+            //    {
+            //        if (itemDetails.canCarried)
+            //        {
+            //            var pos = Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, Input.mousePosition.y, -Camera.main.transform.position.z));//摄像机在z轴方向有一个初始默认值
+            //            EventHandler.CallInstanceItemScense(itemDetails.itemID, pos);
+            //        }
 
-                }
+            //    }
 
-            }
+            //}
         }
 
         public void OnBeginDrag(PointerEventData eventData)
