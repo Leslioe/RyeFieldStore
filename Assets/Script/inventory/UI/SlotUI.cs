@@ -63,6 +63,11 @@ namespace MFarm.Invetory
             isSelected = !isSelected;
             slotHeightLight.gameObject.SetActive(isSelected);
             inventoryUi.UpdataSlotHightLight(slotIndex);
+            if (slotType==SlotType.Bag)
+            {
+                //通知物体被选中的状态和信息
+                EventHandler.callItemSelectEvent(itemDetails, isSelected);
+            }
         }
         public void OnEndDrag(PointerEventData eventData)
         {

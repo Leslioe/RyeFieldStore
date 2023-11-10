@@ -14,4 +14,9 @@ public static class EventHandler
     {
         InstanceItemScense?.Invoke(ID, pos);
     }
+    public static event Action<ItemDetails, bool> ItemSelectEvent;
+    public static void callItemSelectEvent(ItemDetails itemDetails,bool isSelected)
+    {
+        ItemSelectEvent?.Invoke(itemDetails, isSelected);
+    }
 }
