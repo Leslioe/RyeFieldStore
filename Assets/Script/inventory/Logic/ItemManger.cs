@@ -7,6 +7,7 @@ namespace MFarm.Invetory
     {
         public Item itemPrefab;
         private Transform itemParent;
+
         private void Start()
         {
             itemParent = GameObject.FindWithTag("ItemParent").transform;

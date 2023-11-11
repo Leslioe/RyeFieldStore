@@ -1,9 +1,1176 @@
 fileFormatVersion: 2
 guid: 3bdb6f1370acd4062a47227630afb05d
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -3792270604261437014
+    second: Tables_Chairs_0
+  - first:
+      213: 4408377636583933689
+    second: Tables_Chairs_1
+  - first:
+      213: -1810011290105792141
+    second: Tables_Chairs_2
+  - first:
+      213: 5631277253447736428
+    second: Tables_Chairs_3
+  - first:
+      213: 6448021715485002825
+    second: Tables_Chairs_4
+  - first:
+      213: 7691385187856925971
+    second: Tables_Chairs_5
+  - first:
+      213: -3639559162255605245
+    second: Tables_Chairs_6
+  - first:
+      213: -6552710484475752761
+    second: Tables_Chairs_7
+  - first:
+      213: -565906848415133731
+    second: Tables_Chairs_8
+  - first:
+      213: 5456371556799048729
+    second: Tables_Chairs_9
+  - first:
+      213: -927088205068764600
+    second: Tables_Chairs_10
+  - first:
+      213: -4693161342966560058
+    second: Tables_Chairs_11
+  - first:
+      213: -3103974166372896650
+    second: Tables_Chairs_12
+  - first:
+      213: -7280164765489340237
+    second: Tables_Chairs_13
+  - first:
+      213: 954217423422378377
+    second: Tables_Chairs_14
+  - first:
+      213: -8347082925661267117
+    second: Tables_Chairs_15
+  - first:
+      213: 6416407737001051489
+    second: Tables_Chairs_16
+  - first:
+      213: 1537724633632427299
+    second: Tables_Chairs_17
+  - first:
+      213: 4745844525924424964
+    second: Tables_Chairs_18
+  - first:
+      213: 5156526190935786463
+    second: Tables_Chairs_19
+  - first:
+      213: 8993986486499771478
+    second: Tables_Chairs_20
+  - first:
+      213: -728015026612275339
+    second: Tables_Chairs_21
+  - first:
+      213: 1165793935817861033
+    second: Tables_Chairs_22
+  - first:
+      213: 3742787219021639465
+    second: Tables_Chairs_23
+  - first:
+      213: -5852179178055735010
+    second: Tables_Chairs_24
+  - first:
+      213: 431084120965838361
+    second: Tables_Chairs_25
+  - first:
+      213: -3296337993582728733
+    second: Tables_Chairs_26
+  - first:
+      213: 7443772302804055192
+    second: Tables_Chairs_27
+  - first:
+      213: -7976930048831362067
+    second: Tables_Chairs_28
+  - first:
+      213: -6027850214049208086
+    second: Tables_Chairs_29
+  - first:
+      213: 5814392110110305662
+    second: Tables_Chairs_30
+  - first:
+      213: -4615185428276558624
+    second: Tables_Chairs_31
+  - first:
+      213: -7058977344063274618
+    second: Tables_Chairs_32
+  - first:
+      213: -294867677025053937
+    second: Tables_Chairs_33
+  - first:
+      213: -2552845717241991103
+    second: Tables_Chairs_34
+  - first:
+      213: -4394814961280115892
+    second: Tables_Chairs_35
+  - first:
+      213: -1602560123159847008
+    second: Tables_Chairs_36
+  - first:
+      213: 7872900255985750556
+    second: Tables_Chairs_37
+  - first:
+      213: 3302433838498785423
+    second: Tables_Chairs_38
+  - first:
+      213: 3167747371380575968
+    second: Tables_Chairs_39
+  - first:
+      213: 1639221170266994960
+    second: Tables_Chairs_40
+  - first:
+      213: -5347894935591170812
+    second: Tables_Chairs_41
+  - first:
+      213: 5505862926566696979
+    second: Tables_Chairs_42
+  - first:
+      213: 5010048173554976764
+    second: Tables_Chairs_43
+  - first:
+      213: 191337680416682853
+    second: Tables_Chairs_44
+  - first:
+      213: -8485985951734088673
+    second: Tables_Chairs_45
+  - first:
+      213: -4451089965948115192
+    second: Tables_Chairs_46
+  - first:
+      213: -7506651535091100694
+    second: Tables_Chairs_47
+  - first:
+      213: 5182592621224445159
+    second: Tables_Chairs_48
+  - first:
+      213: 5851182920966999421
+    second: Tables_Chairs_49
+  - first:
+      213: -5974162941628650213
+    second: Tables_Chairs_50
+  - first:
+      213: -1769522855610173530
+    second: Tables_Chairs_51
+  - first:
+      213: -6643903853003400283
+    second: Tables_Chairs_52
+  - first:
+      213: -7857176571868733266
+    second: Tables_Chairs_53
+  - first:
+      213: 5739290580526619876
+    second: Tables_Chairs_54
+  - first:
+      213: 6185669061240880195
+    second: Tables_Chairs_55
+  - first:
+      213: 6391672014378756394
+    second: Tables_Chairs_56
+  - first:
+      213: 7742067531422498655
+    second: Tables_Chairs_57
+  - first:
+      213: -5037405481081809945
+    second: Tables_Chairs_58
+  - first:
+      213: 3488150036058908384
+    second: Tables_Chairs_59
+  - first:
+      213: -643115107677927739
+    second: Tables_Chairs_60
+  - first:
+      213: -1649181463734629164
+    second: Tables_Chairs_61
+  - first:
+      213: -1912209821003557764
+    second: Tables_Chairs_62
+  - first:
+      213: -1293877013999967146
+    second: Tables_Chairs_63
+  - first:
+      213: 4523883256572634715
+    second: Tables_Chairs_64
+  - first:
+      213: -1776363800113058995
+    second: Tables_Chairs_65
+  - first:
+      213: -5897098184802809942
+    second: Tables_Chairs_66
+  - first:
+      213: -694173336874713573
+    second: Tables_Chairs_67
+  - first:
+      213: -5959339687937484444
+    second: Tables_Chairs_68
+  - first:
+      213: -6711562579982313928
+    second: Tables_Chairs_69
+  - first:
+      213: -4033073887189066322
+    second: Tables_Chairs_70
+  - first:
+      213: -8991501273254011414
+    second: Tables_Chairs_71
+  - first:
+      213: 1039506185634595992
+    second: Tables_Chairs_72
+  - first:
+      213: 1383434577259141292
+    second: Tables_Chairs_73
+  - first:
+      213: 249966031855842884
+    second: Tables_Chairs_74
+  - first:
+      213: 7182856617963227893
+    second: Tables_Chairs_75
+  - first:
+      213: 6502293011141647426
+    second: Tables_Chairs_76
+  - first:
+      213: -1320098661840061491
+    second: Tables_Chairs_77
+  - first:
+      213: -3909479919337407521
+    second: Tables_Chairs_78
+  - first:
+      213: 5850327684980322108
+    second: Tables_Chairs_79
+  - first:
+      213: -5820657829919411030
+    second: Tables_Chairs_80
+  - first:
+      213: -7021267503569117500
+    second: Tables_Chairs_81
+  - first:
+      213: -7288696658630580687
+    second: Tables_Chairs_82
+  - first:
+      213: 1607625155108657622
+    second: Tables_Chairs_83
+  - first:
+      213: 5228806928247352275
+    second: Tables_Chairs_84
+  - first:
+      213: -5063344854175885641
+    second: Tables_Chairs_85
+  - first:
+      213: -1735196941498481813
+    second: Tables_Chairs_86
+  - first:
+      213: 5719460306615998532
+    second: Tables_Chairs_87
+  - first:
+      213: 7480755076648385957
+    second: Tables_Chairs_88
+  - first:
+      213: 5826576720412087076
+    second: Tables_Chairs_89
+  - first:
+      213: -1177050429383031717
+    second: Tables_Chairs_90
+  - first:
+      213: -6547107313245018107
+    second: Tables_Chairs_91
+  - first:
+      213: 6907411750109235969
+    second: Tables_Chairs_92
+  - first:
+      213: 796266803491426666
+    second: Tables_Chairs_93
+  - first:
+      213: 4366653857813804976
+    second: Tables_Chairs_94
+  - first:
+      213: -5130864149348262023
+    second: Tables_Chairs_95
+  - first:
+      213: 1745316759462507674
+    second: Tables_Chairs_96
+  - first:
+      213: -1574884648738438718
+    second: Tables_Chairs_97
+  - first:
+      213: -2611532272532812285
+    second: Tables_Chairs_98
+  - first:
+      213: 7524851023478371256
+    second: Tables_Chairs_99
+  - first:
+      213: -1889111226013629234
+    second: Tables_Chairs_100
+  - first:
+      213: 336127232435058623
+    second: Tables_Chairs_101
+  - first:
+      213: -2700662471152647925
+    second: Tables_Chairs_102
+  - first:
+      213: 3472952625749904410
+    second: Tables_Chairs_103
+  - first:
+      213: 6842592592193684311
+    second: Tables_Chairs_104
+  - first:
+      213: 8573487890352043188
+    second: Tables_Chairs_105
+  - first:
+      213: 7904708090572946280
+    second: Tables_Chairs_106
+  - first:
+      213: -1176694528185205716
+    second: Tables_Chairs_107
+  - first:
+      213: 4642257833921638906
+    second: Tables_Chairs_108
+  - first:
+      213: -94545323133410613
+    second: Tables_Chairs_109
+  - first:
+      213: 901188250348231119
+    second: Tables_Chairs_110
+  - first:
+      213: 1224558257285823462
+    second: Tables_Chairs_111
+  - first:
+      213: 7331516501002593454
+    second: Tables_Chairs_112
+  - first:
+      213: 382127057946294010
+    second: Tables_Chairs_113
+  - first:
+      213: 2001381652126471868
+    second: Tables_Chairs_114
+  - first:
+      213: -1459100017132267019
+    second: Tables_Chairs_115
+  - first:
+      213: -1028660650260595462
+    second: Tables_Chairs_116
+  - first:
+      213: -3204472041362592196
+    second: Tables_Chairs_117
+  - first:
+      213: 6187626779886954760
+    second: Tables_Chairs_118
+  - first:
+      213: 1925416336694449188
+    second: Tables_Chairs_119
+  - first:
+      213: -8857208128416372628
+    second: Tables_Chairs_120
+  - first:
+      213: 1117480094469672022
+    second: Tables_Chairs_121
+  - first:
+      213: 4462998732538937772
+    second: Tables_Chairs_122
+  - first:
+      213: -8707522475356263455
+    second: Tables_Chairs_123
+  - first:
+      213: -1913978511174418035
+    second: Tables_Chairs_124
+  - first:
+      213: -3689445795028196413
+    second: Tables_Chairs_125
+  - first:
+      213: 7490172457023670322
+    second: Tables_Chairs_126
+  - first:
+      213: 5366149230465070518
+    second: Tables_Chairs_127
+  - first:
+      213: -3794166872756326441
+    second: Tables_Chairs_128
+  - first:
+      213: 301263781665880110
+    second: Tables_Chairs_129
+  - first:
+      213: 6121021652811572895
+    second: Tables_Chairs_130
+  - first:
+      213: 8317997198779039102
+    second: Tables_Chairs_131
+  - first:
+      213: 4481329844599790901
+    second: Tables_Chairs_132
+  - first:
+      213: -8207307934415041890
+    second: Tables_Chairs_133
+  - first:
+      213: 2214041795989389384
+    second: Tables_Chairs_134
+  - first:
+      213: -1429982536921518818
+    second: Tables_Chairs_135
+  - first:
+      213: 8425431423531914037
+    second: Tables_Chairs_136
+  - first:
+      213: 210515638675519558
+    second: Tables_Chairs_137
+  - first:
+      213: 2178148374691086474
+    second: Tables_Chairs_138
+  - first:
+      213: 7982768720578217477
+    second: Tables_Chairs_139
+  - first:
+      213: -5571109952410056236
+    second: Tables_Chairs_140
+  - first:
+      213: -2973894222339532318
+    second: Tables_Chairs_141
+  - first:
+      213: -1936744235468996318
+    second: Tables_Chairs_142
+  - first:
+      213: -7687093668791136563
+    second: Tables_Chairs_143
+  - first:
+      213: -3542253895060729844
+    second: Tables_Chairs_144
+  - first:
+      213: -4632061925232764409
+    second: Tables_Chairs_145
+  - first:
+      213: -296417528442125261
+    second: Tables_Chairs_146
+  - first:
+      213: 6980009853493778978
+    second: Tables_Chairs_147
+  - first:
+      213: 2956124437490640645
+    second: Tables_Chairs_148
+  - first:
+      213: 5073213677580092917
+    second: Tables_Chairs_149
+  - first:
+      213: -5577641729742031437
+    second: Tables_Chairs_150
+  - first:
+      213: -3061035622809811077
+    second: Tables_Chairs_151
+  - first:
+      213: 5466680742662578198
+    second: Tables_Chairs_152
+  - first:
+      213: 7925580484383624547
+    second: Tables_Chairs_153
+  - first:
+      213: -7749626344548028662
+    second: Tables_Chairs_154
+  - first:
+      213: -1714550804700790306
+    second: Tables_Chairs_155
+  - first:
+      213: 5123126351389375773
+    second: Tables_Chairs_156
+  - first:
+      213: 1281395639816073041
+    second: Tables_Chairs_157
+  - first:
+      213: -4829852925240727099
+    second: Tables_Chairs_158
+  - first:
+      213: 3359888538656409339
+    second: Tables_Chairs_159
+  - first:
+      213: -1473068434431496028
+    second: Tables_Chairs_160
+  - first:
+      213: -5965543545916191298
+    second: Tables_Chairs_161
+  - first:
+      213: -862870923203317852
+    second: Tables_Chairs_162
+  - first:
+      213: -4849601080597796401
+    second: Tables_Chairs_163
+  - first:
+      213: -6395934627536268810
+    second: Tables_Chairs_164
+  - first:
+      213: 5803596434218148814
+    second: Tables_Chairs_165
+  - first:
+      213: 3795133283384856557
+    second: Tables_Chairs_166
+  - first:
+      213: -5698899690543015125
+    second: Tables_Chairs_167
+  - first:
+      213: 2359580972523794821
+    second: Tables_Chairs_168
+  - first:
+      213: -2348380884236111765
+    second: Tables_Chairs_169
+  - first:
+      213: 2510955638619936855
+    second: Tables_Chairs_170
+  - first:
+      213: 9063062861091098350
+    second: Tables_Chairs_171
+  - first:
+      213: 5046709737815147908
+    second: Tables_Chairs_172
+  - first:
+      213: 8824427740125449435
+    second: Tables_Chairs_173
+  - first:
+      213: 3597049444040573530
+    second: Tables_Chairs_174
+  - first:
+      213: -7840133646446722431
+    second: Tables_Chairs_175
+  - first:
+      213: -7731802016344809711
+    second: Tables_Chairs_176
+  - first:
+      213: 6740009708603495537
+    second: Tables_Chairs_177
+  - first:
+      213: 6001965667958787114
+    second: Tables_Chairs_178
+  - first:
+      213: -5075580588157663642
+    second: Tables_Chairs_179
+  - first:
+      213: 1494645772712728450
+    second: Tables_Chairs_180
+  - first:
+      213: 6771592959970109127
+    second: Tables_Chairs_181
+  - first:
+      213: -7363221994428295296
+    second: Tables_Chairs_182
+  - first:
+      213: 1099549884880919013
+    second: Tables_Chairs_183
+  - first:
+      213: 4607423061150005765
+    second: Tables_Chairs_184
+  - first:
+      213: -1373469623322894051
+    second: Tables_Chairs_185
+  - first:
+      213: -4396252925370992297
+    second: Tables_Chairs_186
+  - first:
+      213: 6280480132042309376
+    second: Tables_Chairs_187
+  - first:
+      213: -8844598015764902815
+    second: Tables_Chairs_188
+  - first:
+      213: -7016941901555843947
+    second: Tables_Chairs_189
+  - first:
+      213: 5797992770060431550
+    second: Tables_Chairs_190
+  - first:
+      213: -4150057065563502641
+    second: Tables_Chairs_191
+  - first:
+      213: 4014163434100490128
+    second: Tables_Chairs_192
+  - first:
+      213: -8448048477879279342
+    second: Tables_Chairs_193
+  - first:
+      213: 7319621752103534156
+    second: Tables_Chairs_194
+  - first:
+      213: -5006945577125090187
+    second: Tables_Chairs_195
+  - first:
+      213: -2893873031437207792
+    second: Tables_Chairs_196
+  - first:
+      213: -7349717609309273646
+    second: Tables_Chairs_197
+  - first:
+      213: 4485335891679637539
+    second: Tables_Chairs_198
+  - first:
+      213: 1854370422330960390
+    second: Tables_Chairs_199
+  - first:
+      213: -8731463693358965395
+    second: Tables_Chairs_200
+  - first:
+      213: 7271028532253856755
+    second: Tables_Chairs_201
+  - first:
+      213: 6300355124442028571
+    second: Tables_Chairs_202
+  - first:
+      213: -7843105840068738547
+    second: Tables_Chairs_203
+  - first:
+      213: 2672165814693584133
+    second: Tables_Chairs_204
+  - first:
+      213: 2432317566717956526
+    second: Tables_Chairs_205
+  - first:
+      213: 5737687984542685170
+    second: Tables_Chairs_206
+  - first:
+      213: 724781602480266477
+    second: Tables_Chairs_207
+  - first:
+      213: -3571333716643237709
+    second: Tables_Chairs_208
+  - first:
+      213: 2736322338387892821
+    second: Tables_Chairs_209
+  - first:
+      213: -4828251161620310740
+    second: Tables_Chairs_210
+  - first:
+      213: 4854855782620778404
+    second: Tables_Chairs_211
+  - first:
+      213: -2494605491019626046
+    second: Tables_Chairs_212
+  - first:
+      213: -4723522504317686365
+    second: Tables_Chairs_213
+  - first:
+      213: -1108113501475569171
+    second: Tables_Chairs_214
+  - first:
+      213: -6077446438653818058
+    second: Tables_Chairs_215
+  - first:
+      213: -5278384275766408925
+    second: Tables_Chairs_216
+  - first:
+      213: 8123558193106428871
+    second: Tables_Chairs_217
+  - first:
+      213: -4501135902923785456
+    second: Tables_Chairs_218
+  - first:
+      213: -7899974394578950397
+    second: Tables_Chairs_219
+  - first:
+      213: 3744357777413760841
+    second: Tables_Chairs_220
+  - first:
+      213: 4437509830482732343
+    second: Tables_Chairs_221
+  - first:
+      213: -7620950996600296473
+    second: Tables_Chairs_222
+  - first:
+      213: 7944367265198646055
+    second: Tables_Chairs_223
+  - first:
+      213: -2724671471066271307
+    second: Tables_Chairs_224
+  - first:
+      213: 5071759377923533046
+    second: Tables_Chairs_225
+  - first:
+      213: 6215375337348382227
+    second: Tables_Chairs_226
+  - first:
+      213: -4886708625485376681
+    second: Tables_Chairs_227
+  - first:
+      213: -395973586795724624
+    second: Tables_Chairs_228
+  - first:
+      213: 6543294828302714272
+    second: Tables_Chairs_229
+  - first:
+      213: 1775691751392169427
+    second: Tables_Chairs_230
+  - first:
+      213: -2674655131662489863
+    second: Tables_Chairs_231
+  - first:
+      213: 7631069968596405873
+    second: Tables_Chairs_232
+  - first:
+      213: -870334315076239335
+    second: Tables_Chairs_233
+  - first:
+      213: 4042365284218512176
+    second: Tables_Chairs_234
+  - first:
+      213: -6083120363463202855
+    second: Tables_Chairs_235
+  - first:
+      213: -2478367049628279485
+    second: Tables_Chairs_236
+  - first:
+      213: -5396960587733730156
+    second: Tables_Chairs_237
+  - first:
+      213: 7262375765700283547
+    second: Tables_Chairs_238
+  - first:
+      213: 4085034774618825249
+    second: Tables_Chairs_239
+  - first:
+      213: 2807371333056860534
+    second: Tables_Chairs_240
+  - first:
+      213: 1801519372560691176
+    second: Tables_Chairs_241
+  - first:
+      213: -6465789636160498044
+    second: Tables_Chairs_242
+  - first:
+      213: 9143742166382738143
+    second: Tables_Chairs_243
+  - first:
+      213: -2612899687282646482
+    second: Tables_Chairs_244
+  - first:
+      213: -8204505036298314878
+    second: Tables_Chairs_245
+  - first:
+      213: 3403852817253164196
+    second: Tables_Chairs_246
+  - first:
+      213: 6251563206142174545
+    second: Tables_Chairs_247
+  - first:
+      213: 2216968451584074971
+    second: Tables_Chairs_248
+  - first:
+      213: -6204516489368630835
+    second: Tables_Chairs_249
+  - first:
+      213: 4221894165037448133
+    second: Tables_Chairs_250
+  - first:
+      213: 3673147400165653278
+    second: Tables_Chairs_251
+  - first:
+      213: 8725073758563981929
+    second: Tables_Chairs_252
+  - first:
+      213: 4326553933760170795
+    second: Tables_Chairs_253
+  - first:
+      213: -8573327085105345433
+    second: Tables_Chairs_254
+  - first:
+      213: 5781710293251176589
+    second: Tables_Chairs_255
+  - first:
+      213: 1798106083617008556
+    second: Tables_Chairs_256
+  - first:
+      213: -2235689574668660900
+    second: Tables_Chairs_257
+  - first:
+      213: 8897378015167176029
+    second: Tables_Chairs_258
+  - first:
+      213: 1504871994774031952
+    second: Tables_Chairs_259
+  - first:
+      213: -3149106108435604794
+    second: Tables_Chairs_260
+  - first:
+      213: 2805833479073784171
+    second: Tables_Chairs_261
+  - first:
+      213: 687192540314969574
+    second: Tables_Chairs_262
+  - first:
+      213: -1214195943901411535
+    second: Tables_Chairs_263
+  - first:
+      213: 7350536117112757816
+    second: Tables_Chairs_264
+  - first:
+      213: 1412338205647017340
+    second: Tables_Chairs_265
+  - first:
+      213: -3017132484655413961
+    second: Tables_Chairs_266
+  - first:
+      213: 5745259593440345433
+    second: Tables_Chairs_267
+  - first:
+      213: 5317056385753860825
+    second: Tables_Chairs_268
+  - first:
+      213: 1994172605539200310
+    second: Tables_Chairs_269
+  - first:
+      213: 6368667324038611285
+    second: Tables_Chairs_270
+  - first:
+      213: 3030678453408223977
+    second: Tables_Chairs_271
+  - first:
+      213: 471900345509462705
+    second: Tables_Chairs_272
+  - first:
+      213: 9084250456240903496
+    second: Tables_Chairs_273
+  - first:
+      213: 2322562571159477151
+    second: Tables_Chairs_274
+  - first:
+      213: 5526635450725195437
+    second: Tables_Chairs_275
+  - first:
+      213: -7949029393046739278
+    second: Tables_Chairs_276
+  - first:
+      213: 4047422601943537536
+    second: Tables_Chairs_277
+  - first:
+      213: -3611653369687680971
+    second: Tables_Chairs_278
+  - first:
+      213: -4452872608610858523
+    second: Tables_Chairs_279
+  - first:
+      213: 3057292915425948438
+    second: Tables_Chairs_280
+  - first:
+      213: 5193201990804036714
+    second: Tables_Chairs_281
+  - first:
+      213: 2317831730424160394
+    second: Tables_Chairs_282
+  - first:
+      213: -2632854927378809510
+    second: Tables_Chairs_283
+  - first:
+      213: -1419426946082553768
+    second: Tables_Chairs_284
+  - first:
+      213: -2980441642160082509
+    second: Tables_Chairs_285
+  - first:
+      213: 4905477615383959628
+    second: Tables_Chairs_286
+  - first:
+      213: -3489928821446977150
+    second: Tables_Chairs_287
+  - first:
+      213: -321350957736131137
+    second: Tables_Chairs_288
+  - first:
+      213: 3857258104682244074
+    second: Tables_Chairs_289
+  - first:
+      213: -3460875077949391180
+    second: Tables_Chairs_290
+  - first:
+      213: 12551376540979786
+    second: Tables_Chairs_291
+  - first:
+      213: -5249359555277632654
+    second: Tables_Chairs_292
+  - first:
+      213: -3890986357487056638
+    second: Tables_Chairs_293
+  - first:
+      213: -2089105374500692834
+    second: Tables_Chairs_294
+  - first:
+      213: -7341099957195796453
+    second: Tables_Chairs_295
+  - first:
+      213: -100662109126878559
+    second: Tables_Chairs_296
+  - first:
+      213: 1223166580127835367
+    second: Tables_Chairs_297
+  - first:
+      213: 4485690324203056964
+    second: Tables_Chairs_298
+  - first:
+      213: -9096755627229051490
+    second: Tables_Chairs_299
+  - first:
+      213: -3111870773432477906
+    second: Tables_Chairs_300
+  - first:
+      213: 96190622319816981
+    second: Tables_Chairs_301
+  - first:
+      213: -6106037267002320428
+    second: Tables_Chairs_302
+  - first:
+      213: 380371769841129758
+    second: Tables_Chairs_303
+  - first:
+      213: -8510242408496606931
+    second: Tables_Chairs_304
+  - first:
+      213: -3008537557641213318
+    second: Tables_Chairs_305
+  - first:
+      213: 2394131757530315708
+    second: Tables_Chairs_306
+  - first:
+      213: 9093603069484071186
+    second: Tables_Chairs_307
+  - first:
+      213: -6350081869439390611
+    second: Tables_Chairs_308
+  - first:
+      213: -4179501018475433171
+    second: Tables_Chairs_309
+  - first:
+      213: -4890208372100900848
+    second: Tables_Chairs_310
+  - first:
+      213: 4704986906339337600
+    second: Tables_Chairs_311
+  - first:
+      213: 1037836637782527541
+    second: Tables_Chairs_312
+  - first:
+      213: 421789240930735475
+    second: Tables_Chairs_313
+  - first:
+      213: 7674950071227587218
+    second: Tables_Chairs_314
+  - first:
+      213: -7684008728553488493
+    second: Tables_Chairs_315
+  - first:
+      213: 8563490226912207222
+    second: Tables_Chairs_316
+  - first:
+      213: -685753550479975573
+    second: Tables_Chairs_317
+  - first:
+      213: 7661694958480034835
+    second: Tables_Chairs_318
+  - first:
+      213: 3816267556601337383
+    second: Tables_Chairs_319
+  - first:
+      213: -5679342805732410429
+    second: Tables_Chairs_320
+  - first:
+      213: 8996472663924705539
+    second: Tables_Chairs_321
+  - first:
+      213: -3912397428223381793
+    second: Tables_Chairs_322
+  - first:
+      213: -1759029544592881374
+    second: Tables_Chairs_323
+  - first:
+      213: 2712733503227368171
+    second: Tables_Chairs_324
+  - first:
+      213: -7226468873811346207
+    second: Tables_Chairs_325
+  - first:
+      213: -2634611703877063500
+    second: Tables_Chairs_326
+  - first:
+      213: 5146283898740755253
+    second: Tables_Chairs_327
+  - first:
+      213: -4130270364529133539
+    second: Tables_Chairs_328
+  - first:
+      213: 1321738889892931244
+    second: Tables_Chairs_329
+  - first:
+      213: -7208078402211621347
+    second: Tables_Chairs_330
+  - first:
+      213: 5456899142944828648
+    second: Tables_Chairs_331
+  - first:
+      213: 3748867151274004503
+    second: Tables_Chairs_332
+  - first:
+      213: -3403978575938232649
+    second: Tables_Chairs_333
+  - first:
+      213: -4017852893421110672
+    second: Tables_Chairs_334
+  - first:
+      213: -9174083428186576542
+    second: Tables_Chairs_335
+  - first:
+      213: 1175654371877834457
+    second: Tables_Chairs_336
+  - first:
+      213: 7123179559298664324
+    second: Tables_Chairs_337
+  - first:
+      213: -7915426101010959882
+    second: Tables_Chairs_338
+  - first:
+      213: 3427918849656433431
+    second: Tables_Chairs_339
+  - first:
+      213: 1363937216796340296
+    second: Tables_Chairs_340
+  - first:
+      213: -1595343238933534313
+    second: Tables_Chairs_341
+  - first:
+      213: 2926539534701163199
+    second: Tables_Chairs_342
+  - first:
+      213: -6461875379384835056
+    second: Tables_Chairs_343
+  - first:
+      213: -7660211911481979233
+    second: Tables_Chairs_344
+  - first:
+      213: 2984319383922439068
+    second: Tables_Chairs_345
+  - first:
+      213: 9175557987839214153
+    second: Tables_Chairs_346
+  - first:
+      213: -4707764089242524206
+    second: Tables_Chairs_347
+  - first:
+      213: 4353890227451006098
+    second: Tables_Chairs_348
+  - first:
+      213: 7778343582191655805
+    second: Tables_Chairs_349
+  - first:
+      213: -2254700096359819781
+    second: Tables_Chairs_350
+  - first:
+      213: -5724213452328260296
+    second: Tables_Chairs_351
+  - first:
+      213: -8841648691564288376
+    second: Tables_Chairs_352
+  - first:
+      213: 2555182567433535447
+    second: Tables_Chairs_353
+  - first:
+      213: 9195201421146946864
+    second: Tables_Chairs_354
+  - first:
+      213: 4578508791522024567
+    second: Tables_Chairs_355
+  - first:
+      213: 6500927895156879901
+    second: Tables_Chairs_356
+  - first:
+      213: -5900614445664106797
+    second: Tables_Chairs_357
+  - first:
+      213: 5603978843147789456
+    second: Tables_Chairs_358
+  - first:
+      213: -3008400981625875043
+    second: Tables_Chairs_359
+  - first:
+      213: -7660647292495556978
+    second: Tables_Chairs_360
+  - first:
+      213: -1703901732132414987
+    second: Tables_Chairs_361
+  - first:
+      213: -5397464945349236145
+    second: Tables_Chairs_362
+  - first:
+      213: -8190472877296586457
+    second: Tables_Chairs_363
+  - first:
+      213: 6992968456242293973
+    second: Tables_Chairs_364
+  - first:
+      213: -1169969088043671211
+    second: Tables_Chairs_365
+  - first:
+      213: 5599676771478845025
+    second: Tables_Chairs_366
+  - first:
+      213: 6404835150586763193
+    second: Tables_Chairs_367
+  - first:
+      213: 4037632336126294912
+    second: Tables_Chairs_368
+  - first:
+      213: -4209021097927628252
+    second: Tables_Chairs_369
+  - first:
+      213: 202175653929855951
+    second: Tables_Chairs_370
+  - first:
+      213: -4319401031899830348
+    second: Tables_Chairs_371
+  - first:
+      213: -1244654587554559472
+    second: Tables_Chairs_372
+  - first:
+      213: -7954339342139271757
+    second: Tables_Chairs_373
+  - first:
+      213: 3286592001138259277
+    second: Tables_Chairs_374
+  - first:
+      213: 6836943474846609294
+    second: Tables_Chairs_375
+  - first:
+      213: 8705779105544073017
+    second: Tables_Chairs_376
+  - first:
+      213: 1680969657559256797
+    second: Tables_Chairs_377
+  - first:
+      213: 5035784936789645717
+    second: Tables_Chairs_378
+  - first:
+      213: 1551936730985609716
+    second: Tables_Chairs_379
+  - first:
+      213: -6261595936952794837
+    second: Tables_Chairs_380
+  - first:
+      213: 630060806686722980
+    second: Tables_Chairs_381
+  - first:
+      213: 8296158806864738087
+    second: Tables_Chairs_382
+  - first:
+      213: -3586646045977220180
+    second: Tables_Chairs_383
+  - first:
+      213: 8422369055357410273
+    second: Tables_Chairs_384
+  - first:
+      213: 5721219886803648767
+    second: Tables_Chairs_385
+  - first:
+      213: -2839600747165296769
+    second: Tables_Chairs_386
+  - first:
+      213: 2316074854349305819
+    second: Tables_Chairs_387
+  - first:
+      213: -6183565666767447361
+    second: Tables_Chairs_388
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -24,7 +1191,6 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -63,6 +1229,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -119,19 +1286,19 @@ TextureImporter:
       name: Tables_Chairs_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 159
-        width: 60
-        height: 50
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 252fe1ca528df4b65a433df9c3acb0af
-      internalID: 1952738962
+      spriteID: aa157dc4af52f5bc0800000000000000
+      internalID: -3792270604261437014
       vertices: []
       indices: 
       edges: []
@@ -140,19 +1307,19 @@ TextureImporter:
       name: Tables_Chairs_1
       rect:
         serializedVersion: 2
-        x: 85
-        y: 180
-        width: 11
-        height: 21
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 16
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 189d580b11acf4e558965157743d25d1
-      internalID: -397025518
+      spriteID: 9f68c589a14bd2d30800000000000000
+      internalID: 4408377636583933689
       vertices: []
       indices: 
       edges: []
@@ -161,19 +1328,19 @@ TextureImporter:
       name: Tables_Chairs_2
       rect:
         serializedVersion: 2
-        x: 103
-        y: 180
-        width: 15
-        height: 29
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 32
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4861d2b05fb044ee0831b39ccfa79282
-      internalID: -57889899
+      spriteID: 3793ccd425c81e6e0800000000000000
+      internalID: -1810011290105792141
       vertices: []
       indices: 
       edges: []
@@ -182,19 +1349,19 @@ TextureImporter:
       name: Tables_Chairs_3
       rect:
         serializedVersion: 2
-        x: 122
-        y: 180
-        width: 15
-        height: 29
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 48
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1c9d39311e9e43d5a0f8ba22cd3af07
-      internalID: 229897102
+      spriteID: c6c5d7383d0562e40800000000000000
+      internalID: 5631277253447736428
       vertices: []
       indices: 
       edges: []
@@ -203,19 +1370,19 @@ TextureImporter:
       name: Tables_Chairs_4
       rect:
         serializedVersion: 2
-        x: 143
-        y: 180
-        width: 14
-        height: 33
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 96
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 868289bc145054201b7a3501b8ad5d0a
-      internalID: 2099324415
+      spriteID: 94c0d7f4699fb7950800000000000000
+      internalID: 6448021715485002825
       vertices: []
       indices: 
       edges: []
@@ -224,19 +1391,19 @@ TextureImporter:
       name: Tables_Chairs_5
       rect:
         serializedVersion: 2
-        x: 163
-        y: 180
-        width: 14
-        height: 25
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 128
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e1900d078f6d455aaa3fa00e2da1e98
-      internalID: -1550420288
+      spriteID: 315c9e0e31a4dba60800000000000000
+      internalID: 7691385187856925971
       vertices: []
       indices: 
       edges: []
@@ -245,19 +1412,19 @@ TextureImporter:
       name: Tables_Chairs_6
       rect:
         serializedVersion: 2
-        x: 80
-        y: 140
-        width: 40
-        height: 31
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 144
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d85e630e7fec408785af707b5439346
-      internalID: -2024677974
+      spriteID: 3028cb2a930bd7dc0800000000000000
+      internalID: -3639559162255605245
       vertices: []
       indices: 
       edges: []
@@ -266,19 +1433,19 @@ TextureImporter:
       name: Tables_Chairs_7
       rect:
         serializedVersion: 2
-        x: 125
-        y: 160
-        width: 11
+        x: 160
+        y: 204
+        width: 16
         height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee0b181b64f6e4d0baf66562e2b2d516
-      internalID: 619672017
+      spriteID: 7ce48d838881015a0800000000000000
+      internalID: -6552710484475752761
       vertices: []
       indices: 
       edges: []
@@ -287,19 +1454,19 @@ TextureImporter:
       name: Tables_Chairs_8
       rect:
         serializedVersion: 2
-        x: 145
-        y: 160
-        width: 10
-        height: 18
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b3ad593eac544391b57559546c8893d
-      internalID: -472479351
+      spriteID: ddf414c38be7528f0800000000000000
+      internalID: -565906848415133731
       vertices: []
       indices: 
       edges: []
@@ -308,19 +1475,19 @@ TextureImporter:
       name: Tables_Chairs_9
       rect:
         serializedVersion: 2
-        x: 165
-        y: 160
-        width: 10
-        height: 18
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 16
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd29f274b9e9c43a19c42468d0bf19d3
-      internalID: -173705236
+      spriteID: 91c6d85950de8bb40800000000000000
+      internalID: 5456371556799048729
       vertices: []
       indices: 
       edges: []
@@ -329,19 +1496,19 @@ TextureImporter:
       name: Tables_Chairs_10
       rect:
         serializedVersion: 2
-        x: 2
-        y: 97
-        width: 60
-        height: 51
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 32
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6777c8ffda1ad4b3098395e02bc98c8a
-      internalID: -623269687
+      spriteID: 84afb6d70325223f0800000000000000
+      internalID: -927088205068764600
       vertices: []
       indices: 
       edges: []
@@ -350,19 +1517,19 @@ TextureImporter:
       name: Tables_Chairs_11
       rect:
         serializedVersion: 2
-        x: 124
-        y: 140
-        width: 12
-        height: 13
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 48
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1d3fd9f92c8c4b3285570757b2e07af
-      internalID: 159369774
+      spriteID: 6ca02eebf9a8edeb0800000000000000
+      internalID: -4693161342966560058
       vertices: []
       indices: 
       edges: []
@@ -371,19 +1538,19 @@ TextureImporter:
       name: Tables_Chairs_12
       rect:
         serializedVersion: 2
-        x: 143
-        y: 140
-        width: 14
-        height: 14
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 80
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b0d0ed1a013442c6b60a56e43d97b4f
-      internalID: 1736530187
+      spriteID: 670ba55f0f77ce4d0800000000000000
+      internalID: -3103974166372896650
       vertices: []
       indices: 
       edges: []
@@ -392,19 +1559,19 @@ TextureImporter:
       name: Tables_Chairs_13
       rect:
         serializedVersion: 2
-        x: 165
-        y: 140
-        width: 10
+        x: 96
+        y: 188
+        width: 16
         height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3735712ce36914c2c8696fd66f1e68eb
-      internalID: 1104433395
+      spriteID: 3b061beb7b8a7fa90800000000000000
+      internalID: -7280164765489340237
       vertices: []
       indices: 
       edges: []
@@ -413,19 +1580,19 @@ TextureImporter:
       name: Tables_Chairs_14
       rect:
         serializedVersion: 2
-        x: 5
-        y: 60
-        width: 11
-        height: 21
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 112
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b94562e22a70145a89149d376989d4ac
-      internalID: 1800661467
+      spriteID: 9815491e0bf0e3d00800000000000000
+      internalID: 954217423422378377
       vertices: []
       indices: 
       edges: []
@@ -434,19 +1601,19 @@ TextureImporter:
       name: Tables_Chairs_15
       rect:
         serializedVersion: 2
-        x: 23
-        y: 60
-        width: 15
-        height: 29
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 128
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 266b5f34f2ecd4217908ea8763056a3e
-      internalID: -317450184
+      spriteID: 35b5b39cd44392c80800000000000000
+      internalID: -8347082925661267117
       vertices: []
       indices: 
       edges: []
@@ -455,19 +1622,19 @@ TextureImporter:
       name: Tables_Chairs_16
       rect:
         serializedVersion: 2
-        x: 42
-        y: 60
-        width: 15
-        height: 29
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 144
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fae69441f65114f0b8c9f04761e463b0
-      internalID: -2143000643
+      spriteID: 165040a57d8ab0950800000000000000
+      internalID: 6416407737001051489
       vertices: []
       indices: 
       edges: []
@@ -476,19 +1643,19 @@ TextureImporter:
       name: Tables_Chairs_17
       rect:
         serializedVersion: 2
-        x: 63
-        y: 60
-        width: 14
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 160
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 645b72130d1e74ad4a627e84248732b2
-      internalID: -1041813832
+      spriteID: 32d47063868175510800000000000000
+      internalID: 1537724633632427299
       vertices: []
       indices: 
       edges: []
@@ -497,19 +1664,19 @@ TextureImporter:
       name: Tables_Chairs_18
       rect:
         serializedVersion: 2
-        x: 84
-        y: 60
-        width: 14
-        height: 25
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6cd2bb37043954dd684752bbf948e1ce
-      internalID: -1795763153
+      spriteID: 40d15f6a370acd140800000000000000
+      internalID: 4745844525924424964
       vertices: []
       indices: 
       edges: []
@@ -518,19 +1685,19 @@ TextureImporter:
       name: Tables_Chairs_19
       rect:
         serializedVersion: 2
-        x: 113
-        y: 78
-        width: 46
-        height: 39
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 16
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07dc6fefa641243e98e9d3b52f1c6d2e
-      internalID: 1670151085
+      spriteID: fd3c9bd0049af8740800000000000000
+      internalID: 5156526190935786463
       vertices: []
       indices: 
       edges: []
@@ -539,19 +1706,19 @@ TextureImporter:
       name: Tables_Chairs_20
       rect:
         serializedVersion: 2
-        x: 0
-        y: 20
-        width: 40
-        height: 31
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 32
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 215b39a346cfb4e18b7a5e7544e2d7d7
-      internalID: -1132305038
+      spriteID: 6548b7aae0f01dc70800000000000000
+      internalID: 8993986486499771478
       vertices: []
       indices: 
       edges: []
@@ -560,19 +1727,19 @@ TextureImporter:
       name: Tables_Chairs_21
       rect:
         serializedVersion: 2
-        x: 45
-        y: 40
-        width: 11
+        x: 48
+        y: 172
+        width: 16
         height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d128c56241b31463db537c26017b6914
-      internalID: -1828970828
+      spriteID: 577f0a3c03295e5f0800000000000000
+      internalID: -728015026612275339
       vertices: []
       indices: 
       edges: []
@@ -581,19 +1748,19 @@ TextureImporter:
       name: Tables_Chairs_22
       rect:
         serializedVersion: 2
-        x: 65
-        y: 40
-        width: 10
-        height: 18
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 80
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ce86a4bc43864162868f9bfc6fe2fb8
-      internalID: 1655139237
+      spriteID: 9a76ab1786bbd2010800000000000000
+      internalID: 1165793935817861033
       vertices: []
       indices: 
       edges: []
@@ -602,19 +1769,19 @@ TextureImporter:
       name: Tables_Chairs_23
       rect:
         serializedVersion: 2
-        x: 85
-        y: 40
-        width: 10
-        height: 18
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 96
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb70377bccd34436c8ff015b07388c4c
-      internalID: 90928998
+      spriteID: 92f28a3452d01f330800000000000000
+      internalID: 3742787219021639465
       vertices: []
       indices: 
       edges: []
@@ -623,19 +1790,19 @@ TextureImporter:
       name: Tables_Chairs_24
       rect:
         serializedVersion: 2
-        x: 114
-        y: 28
-        width: 60
-        height: 41
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 112
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f67c1fb9949d644b09e383f852aae220
-      internalID: -1271049873
+      spriteID: e19ec023b02e8cea0800000000000000
+      internalID: -5852179178055735010
       vertices: []
       indices: 
       edges: []
@@ -644,19 +1811,19 @@ TextureImporter:
       name: Tables_Chairs_25
       rect:
         serializedVersion: 2
-        x: 44
-        y: 20
-        width: 12
-        height: 13
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 128
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c64d0b04c0d8b46e682ecb3e42f3e695
-      internalID: 1333266330
+      spriteID: 916fa7a59b48bf500800000000000000
+      internalID: 431084120965838361
       vertices: []
       indices: 
       edges: []
@@ -665,19 +1832,19 @@ TextureImporter:
       name: Tables_Chairs_26
       rect:
         serializedVersion: 2
-        x: 63
-        y: 20
-        width: 14
-        height: 14
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 144
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 597ba37bc96c14f5f970e6d0d8f684c5
-      internalID: 141317939
+      spriteID: 3e9a0e04f0e0142d0800000000000000
+      internalID: -3296337993582728733
       vertices: []
       indices: 
       edges: []
@@ -686,19 +1853,1804 @@ TextureImporter:
       name: Tables_Chairs_27
       rect:
         serializedVersion: 2
-        x: 85
-        y: 20
-        width: 10
+        x: 160
+        y: 172
+        width: 16
         height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1bb1de38facaa4b23b9738b6ee42e1c0
-      internalID: -1910364885
+      spriteID: 894f68978779d4760800000000000000
+      internalID: 7443772302804055192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb644952604c4190800000000000000
+      internalID: -7976930048831362067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8a550da26c85ca0800000000000000
+      internalID: -6027850214049208086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d65f371ded0b050800000000000000
+      internalID: 5814392110110305662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e444072e4193ffb0800000000000000
+      internalID: -4615185428276558624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68104917189790e90800000000000000
+      internalID: -7058977344063274618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f035d27f86b68ebf0800000000000000
+      internalID: -294867677025053937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140f9618858729cd0800000000000000
+      internalID: -2552845717241991103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b9353d31b7203c0800000000000000
+      internalID: -4394814961280115892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afd9d70f0092c9e0800000000000000
+      internalID: -1602560123159847008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12dc160219224d60800000000000000
+      internalID: 7872900255985750556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8823fd341a94dd20800000000000000
+      internalID: 3302433838498785423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee0159637916fb20800000000000000
+      internalID: 3167747371380575968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019701a28feafb610800000000000000
+      internalID: 1639221170266994960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d4af3f3e578c5b0800000000000000
+      internalID: -5347894935591170812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31820001921c86c40800000000000000
+      internalID: 5505862926566696979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7c65cf444478540800000000000000
+      internalID: 5010048173554976764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56332694b94c7a200800000000000000
+      internalID: 191337680416682853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c3fe1dcb8bb3a80800000000000000
+      internalID: -8485985951734088673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8076b54424d8a32c0800000000000000
+      internalID: -4451089965948115192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae31146633403d790800000000000000
+      internalID: -7506651535091100694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4c4abc7844ce740800000000000000
+      internalID: 5182592621224445159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d0210add3933150800000000000000
+      internalID: 5851182920966999421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1debe10572871da0800000000000000
+      internalID: -5974162941628650213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7bb6196546177e0800000000000000
+      internalID: -1769522855610173530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab12e785ac1cc3a0800000000000000
+      internalID: -6643903853003400283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea02e387983b5f290800000000000000
+      internalID: -7857176571868733266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecd80bff5e06af40800000000000000
+      internalID: 5739290580526619876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cf265fc39e7d550800000000000000
+      internalID: 6185669061240880195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_56
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29e9d125d7c3b850800000000000000
+      internalID: 6391672014378756394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ff58d8669517b60800000000000000
+      internalID: 7742067531422498655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3538e776a871ab0800000000000000
+      internalID: -5037405481081809945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6ae8e0af5686030800000000000000
+      internalID: 3488150036058908384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c68b2987323317f0800000000000000
+      internalID: -643115107677927739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc40fb423eec19e0800000000000000
+      internalID: -1649181463734629164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74d1139c477675e0800000000000000
+      internalID: -1912209821003557764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6542d7506b93b0ee0800000000000000
+      internalID: -1293877013999967146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5669517adf08ce30800000000000000
+      internalID: 4523883256572634715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4be56e09861957e0800000000000000
+      internalID: -1776363800113058995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa74a31f17c492ea0800000000000000
+      internalID: -5897098184802809942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ef80b270dcd56f0800000000000000
+      internalID: -694173336874713573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4695994b02c2c4da0800000000000000
+      internalID: -5959339687937484444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8369954946dbbd2a0800000000000000
+      internalID: -6711562579982313928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead1131faa4a708c0800000000000000
+      internalID: -4033073887189066322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedd8322b35c73380800000000000000
+      internalID: -8991501273254011414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89442984e511d6e00800000000000000
+      internalID: 1039506185634595992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_73
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca816831b62f23310800000000000000
+      internalID: 1383434577259141292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4467ea618ce087300800000000000000
+      internalID: 249966031855842884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa0342a902aea360800000000000000
+      internalID: 7182856617963227893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c5a920b09cc3a50800000000000000
+      internalID: 6502293011141647426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbfd80e2411eade0800000000000000
+      internalID: -1320098661840061491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbfe570abcbeb9c0800000000000000
+      internalID: -3909479919337407521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fa2ea780a803150800000000000000
+      internalID: 5850327684980322108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4be88fa8ed83fa0800000000000000
+      internalID: -5820657829919411030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ced4c0e7627f8e90800000000000000
+      internalID: -7021267503569117500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1366fb2910959da90800000000000000
+      internalID: -7288696658630580687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_83
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9db3e9f8e6f4610800000000000000
+      internalID: 1607625155108657622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbe845a234709840800000000000000
+      internalID: 5228806928247352275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_85
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b65b8f8ea26bb9b0800000000000000
+      internalID: -5063344854175885641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6383ae33975be7e0800000000000000
+      internalID: -1735196941498481813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4481bca88da9f5f40800000000000000
+      internalID: 5719460306615998532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_88
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adb3538b1bf0d760800000000000000
+      internalID: 7480755076648385957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42319bc18a82cd050800000000000000
+      internalID: 5826576720412087076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_90
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5447e9eed64aafe0800000000000000
+      internalID: -1177050429383031717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5082baf26900425a0800000000000000
+      internalID: -6547107313245018107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_92
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bce92c36e0cdf50800000000000000
+      internalID: 6907411750109235969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_93
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61da806078ec0b00800000000000000
+      internalID: 796266803491426666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7b4145c88799c30800000000000000
+      internalID: 4366653857813804976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_95
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f5f4b9d328bc8b0800000000000000
+      internalID: -5130864149348262023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_96
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a947c4c785c983810800000000000000
+      internalID: 1745316759462507674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1cabd81c2e42ae0800000000000000
+      internalID: -1574884648738438718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e86301c39f1cbd0800000000000000
+      internalID: -2611532272532812285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3b9223324ad6860800000000000000
+      internalID: 7524851023478371256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_100
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec44140595788c5e0800000000000000
+      internalID: -1889111226013629234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb770a0efe92aa400800000000000000
+      internalID: 336127232435058623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_102
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01c7bc8ac1558ad0800000000000000
+      internalID: -2700662471152647925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c459b3308623030800000000000000
+      internalID: 3472952625749904410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7538c6085b5c5fe50800000000000000
+      internalID: 6842592592193684311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_105
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4fb8edfc52bf670800000000000000
+      internalID: 8573487890352043188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_106
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bb1cf902a23bd60800000000000000
+      internalID: 7904708090572946280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cff5e9f8a8bafe0800000000000000
+      internalID: -1176694528185205716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af17caa77ec9c6040800000000000000
+      internalID: 4642257833921638906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2657f878b10bef0800000000000000
+      internalID: -94545323133410613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_110
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc913c160f9a18c00800000000000000
+      internalID: 901188250348231119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_111
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebfa4c3f318ef010800000000000000
+      internalID: 1224558257285823462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tables_Chairs_112
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4ac23e967ceb560800000000000000
+      internalID: 7331516501002593454
       vertices: []
       indices: 
       edges: []
@@ -713,35 +3665,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Tables_Chairs_2: -57889899
-      Tables_Chairs_18: -1795763153
-      Tables_Chairs_20: -1132305038
-      Tables_Chairs_0: 1952738962
-      Tables_Chairs_1: -397025518
-      Tables_Chairs_23: 90928998
-      Tables_Chairs_15: -317450184
-      Tables_Chairs_9: -173705236
-      Tables_Chairs_17: -1041813832
-      Tables_Chairs_11: 159369774
-      Tables_Chairs_19: 1670151085
-      Tables_Chairs_24: -1271049873
-      Tables_Chairs_27: -1910364885
-      Tables_Chairs_16: -2143000643
-      Tables_Chairs_7: 619672017
-      Tables_Chairs_10: -623269687
-      Tables_Chairs_14: 1800661467
-      Tables_Chairs_4: 2099324415
-      Tables_Chairs_21: -1828970828
-      Tables_Chairs_6: -2024677974
-      Tables_Chairs_3: 229897102
-      Tables_Chairs_22: 1655139237
-      Tables_Chairs_26: 141317939
-      Tables_Chairs_5: -1550420288
-      Tables_Chairs_13: 1104433395
-      Tables_Chairs_8: -472479351
-      Tables_Chairs_25: 1333266330
-      Tables_Chairs_12: 1736530187
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

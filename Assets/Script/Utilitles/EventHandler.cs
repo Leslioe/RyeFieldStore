@@ -19,4 +19,19 @@ public static class EventHandler
     {
         ItemSelectEvent?.Invoke(itemDetails, isSelected);
     }
+    public static event Action<int, int> GameMinuteEvent;
+    public static void callGameMinuteEvent(int minute,int hour)
+    {
+        GameMinuteEvent?.Invoke(minute, hour);
+    }
+    public static event Action<int, int, int, int, Season> GameDateEvent;
+    public static void callGameDateEvent(int hour,int day,int month,int year,Season season)
+    {
+        GameDateEvent?.Invoke(hour, day, month, year, season);
+    }
+    public static event Action<string, Vector3> TransitionEvent;
+    public static void callTransitionEvent(string sceneName,Vector3 pos)
+    {
+        TransitionEvent?.Invoke(sceneName, pos);
+    }
 }
