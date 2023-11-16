@@ -20,10 +20,18 @@ public class AnimatorOverride : MonoBehaviour
     private void OnEnable()
     {
         EventHandler.ItemSelectEvent += OnItemSelectEvent;
+        EventHandler.BeforeSceneUnloadEvent += OnBeforeSceneUnloadEvent;
     }
     private void OnDisable()
     {
         EventHandler.ItemSelectEvent -= OnItemSelectEvent;
+        EventHandler.BeforeSceneUnloadEvent -= OnBeforeSceneUnloadEvent;
+    }
+
+    private void OnBeforeSceneUnloadEvent()
+    {
+        holdItem.enabled = false;
+        switchAnimator(PartType.None);
     }
 
     private void OnItemSelectEvent(ItemDetails itemDetails, bool isSelected)
@@ -42,8 +50,13 @@ public class AnimatorOverride : MonoBehaviour
         }
         else
         {
-            holdItem.sprite = itemDetails.itemOnWorldSprite;
-            holdItem.enabled = true;
+            if (currentType==PartType.Carry)
+            {
+                Debug.Log(itemDetails.itemID);
+                holdItem.sprite = itemDetails.itemOnWorldSprite;
+                holdItem.enabled = true;
+            }
+           
         }
         switchAnimator(currentType);
     }

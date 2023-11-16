@@ -17,13 +17,18 @@ namespace MFarm.Invetory
         private void OnEnable()//¶©ÔÄÁËÊÂ¼þ
         {
             EventHandler.UpdateInventoryUI += OnUpdateInventoryUI;
+            EventHandler.BeforeSceneUnloadEvent += OnBeforeSceneUnloadEvent;
         }
         private void OnDisable()
         {
             EventHandler.UpdateInventoryUI -= OnUpdateInventoryUI;
+            EventHandler.BeforeSceneUnloadEvent -= OnBeforeSceneUnloadEvent;
         }
 
-     
+        private void OnBeforeSceneUnloadEvent()
+        {
+            UpdataSlotHightLight(-1);
+        }
 
         private void Start()
         {

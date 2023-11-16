@@ -11,6 +11,32 @@ public class player : MonoBehaviour
     private Vector2 movementInput;
     private Animator[] animators;
     public bool isMoVing;
+    public bool inputDisable;
+    private void OnEnable()
+    {
+        EventHandler.BeforeSceneUnloadEvent += OnBeforeSceneUnloadEvent;
+        EventHandler.movePosition += OnMoveToPosition;
+        EventHandler.afterSceneUnloadEvent += OnAfterSceneLoadEvent;
+    }
+    private void OnDisable()
+    {
+        EventHandler.BeforeSceneUnloadEvent -= OnBeforeSceneUnloadEvent;
+        EventHandler.afterSceneUnloadEvent -= OnAfterSceneLoadEvent;
+        EventHandler.movePosition -= OnMoveToPosition;
+    }
+    private void OnBeforeSceneUnloadEvent()
+    {
+        inputDisable = true;
+    }
+    private void OnMoveToPosition(Vector3 targetPosition)
+    {
+        transform.position = targetPosition;
+    }
+
+    private void OnAfterSceneLoadEvent()
+    {
+        inputDisable = false;
+    }
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -22,8 +48,12 @@ public class player : MonoBehaviour
     }
     private void Update()
     {
-        PlayerInput();
-        SwitchAnimator();
+        if (inputDisable == false)
+        {
+            PlayerInput();
+            SwitchAnimator();
+        }
+
     }
     private void PlayerInput()
     {
@@ -58,4 +88,5 @@ public class player : MonoBehaviour
             }
         }
     }
+
 }

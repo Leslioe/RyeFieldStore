@@ -4,11 +4,15 @@ using UnityEngine;
 using Cinemachine;
 public class SwitchBounds : MonoBehaviour
 {
-    //Todo:切换场景后使用
-    private void Start()
+    private void OnEnable()
     {
-        switchConfinerShape();
+        EventHandler.afterSceneUnloadEvent += switchConfinerShape;
     }
+    private void OnDisable()
+    {
+        EventHandler.afterSceneUnloadEvent -= switchConfinerShape;
+    }
+
     private void switchConfinerShape()
     {
         PolygonCollider2D confinerShape = GameObject.FindGameObjectWithTag("boundsConfiner").GetComponent<PolygonCollider2D>();

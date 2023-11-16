@@ -26,10 +26,20 @@ namespace MFarm.Transtion
         {
             StartCoroutine(LoadScenseActive(startSceneName));
         }
+        /// <summary>
+        /// 场景切换
+        /// </summary>
+        /// <param name="sceneName">目标场景</param>
+        /// <param name="tagetPosition">目标位置</param>
+        /// <returns></returns>
         private IEnumerator Transtion(string sceneName, Vector3 tagetPosition)
         {
+            EventHandler.CallBeforeSceneUnloadEvent();
             yield return SceneManager.UnloadSceneAsync(SceneManager.GetActiveScene());
+         
             yield return LoadScenseActive(sceneName);
+            EventHandler.CallmovePosition(tagetPosition);
+            EventHandler.CallafterSceneUnloadEvent();
         }
         /// <summary>
         /// 加载场景并设置为激活
